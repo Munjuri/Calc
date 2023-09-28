@@ -1,4 +1,4 @@
-
+#Allan Munjuri, SCT211-0624/2022
 
 def add(num1, num2):
     return num1 + num2
